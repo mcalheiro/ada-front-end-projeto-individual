@@ -20,21 +20,22 @@ footer h2 {
 
 footer a {
   align-items: center;
-  border-bottom: #fff;
+  border-bottom: 2px solid #fff;
   color: #fff;
   display: flex;
   flex-direction: column;
   font-size: 28px;
   font-style: normal;
   font-weight: 400;
-  justify-content: center;
   line-height: 100%;
   margin-left: 0;
   padding: 8px;
   text-decoration: none;
+  width: fit-content;
 }
 
 footer p {
+  color: #fff;
   font-family: Poppins;
   font-size: 28px;
   font-style: normal;
