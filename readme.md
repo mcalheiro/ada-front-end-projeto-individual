@@ -1,4 +1,4 @@
-# [Portifolio] Web Developer
+# [Portfolio] Web Developer
 
 ❗ This is an exercise ❗
 
